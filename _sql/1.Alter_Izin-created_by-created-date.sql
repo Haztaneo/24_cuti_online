@@ -1,0 +1,1 @@
+ALTER TABLE `izin` ADD `created_by` VARCHAR(50) NULL , ADD `created_date` DATETIME NULL ;
